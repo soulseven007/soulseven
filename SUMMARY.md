@@ -12,5 +12,5 @@
 
 ## log
 
-* [Untitled](log/untitled.md)
+* [日志记录](log/untitled.md)
 
