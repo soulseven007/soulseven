@@ -33,3 +33,8 @@
 
 * [Untitled](other/untitled.md)
 
+---
+
+* [豫ICP备17012198号](https://beian.miit.gov.cn/)
+* [豫公网安备 41058102000062号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41058102000062)
+
