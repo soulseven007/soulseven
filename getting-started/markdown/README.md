@@ -1,7 +1,3 @@
----
-description: 语法速看，及时查询！
----
-
 # markdown入门
 
 ## 开始
@@ -45,7 +41,5 @@ markdown在当前阶段似乎已成为必不可少的一个工具，因此学习
 
 > 如本页，基本语法部分使用了markdown的语法，扩展语法部分则使用了html中的`table`以及`code`等标签。另，由于作者此前虽然对这些内容感兴趣并多次想要熟练使用，但事实确实拖沓懈怠了无数次，也因此本文带来的不足及错漏之处还请各位见谅，也请各位不吝指教，万分感激！
 
-参考链接： 
-
-\[markdown\]\([http://markdown.p2hp.com/index.html](http://markdown.p2hp.com/index.html)\)
+参考链接 [markdown](http://markdown.p2hp.com)
 
