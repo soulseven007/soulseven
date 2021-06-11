@@ -1,3 +1,7 @@
+---
+description: 语法速看，及时查询！
+---
+
 # markdown入门
 
 ## 开始
@@ -8,7 +12,7 @@ markdown在当前阶段似乎已成为必不可少的一个工具，因此学习
 >
 > tips 2：编写markdown的过程中，除却其本身的语法之外，也可以直接使用HTML中的一些标签，有时候这样可能更方便一些。
 
-### 基本语法
+## 基本语法
 
 所有的markdown应用程序都支持基本语法
 
@@ -38,4 +42,6 @@ markdown在当前阶段似乎已成为必不可少的一个工具，因此学习
 | 自定义列表 |  `term  : definition` |
 | 删除线 |  `~~The world is flat.~~` |
 | 任务列表 |   `- [x] Write the press release  - [ ] Update the website  - [ ] Contact the media` |
+
+> 如本页，基本语法部分使用了markdown的语法，扩展语法部分则使用了html中的`table`以及`code`等标签。另，由于作者此前虽然对这些内容感兴趣并多次想要熟练使用，但事实确实拖沓懈怠了无数次，也因此本文带来的不足及错漏之处还请各位见谅，也请各位不吝指教，万分感激！
 
