@@ -5,7 +5,6 @@
 
 ## 入门教程 <a id="getting-started"></a>
 
-* [入门教程](getting-started/ru-men.md)
 * [markdown入门](getting-started/markdown/README.md)
   * [Untitled](getting-started/markdown/untitled-1.md)
   * [Untitled](getting-started/markdown/untitled.md)
