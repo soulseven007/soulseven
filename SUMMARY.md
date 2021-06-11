@@ -7,6 +7,7 @@
 
 * [入门教程](getting-started/ru-men.md)
 * [Untitled](getting-started/untitled-2.md)
+* [index](getting-started/markdown.md)
 * [Untitled](getting-started/untitled-1.md)
 * [Untitled](getting-started/untitled/README.md)
   * [Untitled](getting-started/untitled/untitled.md)
