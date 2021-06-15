@@ -174,7 +174,7 @@
 ### 图片标题
 
 ```text
-![这里是alt标签的内容](https://ossweb-img.qq.com/images/lol/web201310/skin/big84000.jpg "鼠标悬浮出现提示信息")
+![这里是alt标签的内容](https://ossweb-img.qq.com/images/lol/web201310/skin/big84000.jpg "提示信息")
 ```
 
 示例：
