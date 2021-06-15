@@ -4,8 +4,6 @@
 
 尽可能详细的介绍了一下基本语法及其进阶使用，还是老话，针对不同的编辑器展示效果和语法使用可能略有不同，请依据实际情况进行学习！
 
-
-
 ## 标题
 
 单词或短语前加 `#` 号，一个`#`号代表一级标题，等同`<h1>`，最多支持六个`#`号，及同HTML的 `<h6>`
@@ -189,7 +187,7 @@
 
 示例：
 
-[!\[图片链接示例\]\(https://ossweb-img.qq.com/images/lol/web201310/skin/big84000.jpg"\)](https://soulseven.cn)
+[!\[图片链接示例\]\(https://ossweb-img.qq.com/images/lol/web201310/skin/big84000.jpg\)](https://soulseven.cn)
 
 ## 代码
 
