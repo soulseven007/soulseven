@@ -6,7 +6,7 @@
 ## 入门教程 <a id="getting-started"></a>
 
 * [markdown入门](getting-started/markdown/README.md)
-  * [Untitled](getting-started/markdown/untitled-1.md)
+  * [基本语法进阶](getting-started/markdown/untitled-1.md)
   * [Untitled](getting-started/markdown/untitled.md)
 * [Untitled](getting-started/untitled-2.md)
 * [Untitled](getting-started/untitled-1.md)
