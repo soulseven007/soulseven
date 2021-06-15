@@ -187,7 +187,7 @@
 
 示例：
 
-{% page-ref page="untitled-1.md" %}
+[![tip](https://ossweb-img.qq.com/images/lol/web201310/skin/big84000.jpg)](https://soulseven.cn)
 
 ## 代码
 
