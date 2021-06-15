@@ -183,11 +183,11 @@
 
 ### 图片链接
 
-`[![图片链接示例](https://ossweb-img.qq.com/images/lol/web201310/skin/big84000.jpg")](https://soulseven.cn)`
+\`!\[图片链接示例\][\(https://ossweb-img.qq.com/images/lol/web201310/skin/big84000.jpg\)](https://soulseven.cn)\]\(https://soulseven.cn\)\`
 
 示例：
 
-[!\[图片链接示例\]\(https://ossweb-img.qq.com/images/lol/web201310/skin/big84000.jpg\)](https://soulseven.cn)
+\[!\[图片链接示例\][\(https://ossweb-img.qq.com/images/lol/web201310/skin/big84000.jpg\)](https://soulseven.cn)\]\[1\]
 
 ## 代码
 
