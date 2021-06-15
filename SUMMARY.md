@@ -7,7 +7,7 @@
 
 * [markdown入门](getting-started/markdown/README.md)
   * [基本语法进阶](getting-started/markdown/untitled-1.md)
-* [Untitled](getting-started/untitled-2.md)
+* [git入门教程](getting-started/untitled-2.md)
 * [Untitled](getting-started/untitled-1.md)
 * [Untitled](getting-started/untitled/README.md)
   * [Untitled](getting-started/untitled/untitled.md)
