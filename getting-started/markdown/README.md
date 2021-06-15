@@ -39,6 +39,8 @@ markdown在当前阶段似乎已成为必不可少的一个工具，因此学习
 | 删除线 |  `~~The world is flat.~~` |
 | 任务列表 |   `- [x] Write the press release  - [ ] Update the website  - [ ] Contact the media` |
 
+> > 基本语法的进阶可参考下一页的内容，扩展语法建议跳转下方[参考链接](http://markdown.p2hp.com/extended-syntax/)，进行学习！
+
 > 如本页，基本语法部分使用了markdown的语法，扩展语法部分则使用了html中的`table`以及`code`等标签。另，由于作者此前虽然对这些内容感兴趣并多次想要熟练使用，但事实确实拖沓懈怠了无数次，也因此本文带来的不足及错漏之处还请各位见谅，也请各位不吝指教，万分感激！
 
 参考链接： [markdown](http://markdown.p2hp.com)
