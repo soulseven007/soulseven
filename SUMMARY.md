@@ -5,9 +5,6 @@
 
 ## 入门教程 <a id="getting-started"></a>
 
-* [markdown入门](getting-started/markdown/README.md)
-  * [基本语法进阶](getting-started/markdown/markdown-base.md)
-* [git入门教程](getting-started/git.md)
 * [Untitled](getting-started/untitled-1.md)
 * [Untitled](getting-started/untitled/README.md)
   * [Untitled](getting-started/untitled/untitled.md)
